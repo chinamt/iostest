@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.43.1:8080/app/filemanager/connectors/xhtml/filemanager.xhtml?mode=download&path=/storage/sdcard0/paw/html/mhs.ipa</string>
+                    <string>http://182.92.70.153:99/mhs.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
