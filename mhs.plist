@@ -13,6 +13,14 @@
                     <key>url</key>
                     <string>http://182.92.70.153:99/mhs.ipa</string>
                 </dict>
+				<dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>>http://182.92.70.153:99/mhs.png</string>
+               </dict>
             </array>
             <key>metadata</key>
             <dict>
@@ -23,7 +31,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>xxx.ipa</string>
+                <string>ÃÀ»®Ëã.ipa</string>
             </dict>
         </dict>
     </array>
